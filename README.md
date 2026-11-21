@@ -44,6 +44,10 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 | fg        | `#c2c2c6` |
 | white     | `#d2d2d5` |
 
+## Author
+
+Made by [Jose López Ariza](https://imjoe.dev).
+
 ## License
 
 MIT
