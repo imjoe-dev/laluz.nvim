@@ -2,6 +2,28 @@
 
 A minimal monochrome colorscheme for Neovim. Grayscale only: hierarchy comes from brightness, bold, italic and underline instead of hue.
 
+## Screenshots
+
+**Lua**
+
+![Lua](snippets/lua.png)
+
+**TypeScript**
+
+![TypeScript](snippets/typescript.png)
+
+**Go**
+
+![Go](snippets/go.png)
+
+**Rust**
+
+![Rust](snippets/rust.png)
+
+**C**
+
+![C](snippets/c.png)
+
 ## Features
 
 - Treesitter, LSP semantic tokens and classic syntax groups
